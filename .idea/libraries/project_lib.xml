@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="project-lib">
+    <CLASSES>
+      <root url="file://F:/javaweb视频/JAVEESSM整合资料/project-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/javaweb视频/JAVEESSM整合资料/project-lib" />
+    </SOURCES>
+    <jarDirectory url="file://F:/javaweb视频/JAVEESSM整合资料/project-lib" recursive="false" />
+    <jarDirectory url="file://F:/javaweb视频/JAVEESSM整合资料/project-lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
